@@ -1,0 +1,29 @@
+_repo: Oriental-RugsAntique-and-Modern_39740
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39740-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hawley, W. A. (Walter Augustus)
+    aliases:
+    - Hawley, Walter Augustus
+    - Hawley, Walter A.
+    birthdate: 1863
+    deathdate: 1920
+    gutenberg_agent_id: '40194'
+    url: http://www.gutenberg.org/2009/agents/40194
+description: ''
+gutenberg_issued: '2012-05-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39740'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rugs, Oriental'
+- !lcc 'NK'
+title: Oriental Rugs, Antique and Modern
+url: http://www.gutenberg.org/ebooks/39740
