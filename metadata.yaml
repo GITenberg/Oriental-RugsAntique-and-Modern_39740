@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '40194'
     url: http://www.gutenberg.org/2009/agents/40194
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39740#Oriental-RugsAntique-and-Modern
 gutenberg_issued: '2012-05-20'
 gutenberg_type: Text
 identifiers:
